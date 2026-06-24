@@ -2,50 +2,143 @@
 
 Welcome to my engineering journey.
 
----
+## About
 
-## 👨‍💻 About
+I'm Aashish Jha, a B.Tech CSE (AI & ML) student.
 
-Hi! I'm **Aashish Jha**, a B.Tech Computer Science Engineering (AI & ML) student.
-
-This repository documents my engineering journey from **2026 to 2030** as I learn Computer Science from first principles, build projects, and prepare for a software engineering career.
+This repository documents my journey from 2026 to 2030 as I learn Computer Science from first principles and build strong software engineering fundamentals.
 
 ---
 
-## 🎯 Project Versions
+## 🎯 Project Goal
 
-* **v1.0** — Foundation (Before College)
-* **v2.0** — First Year
-* **v3.0** — Second Year
-* **v4.0** — Third Year
-* **v5.0** — Final Year
-* **v6.0** — Placements
+To become a highly skilled Software Engineer by 2030 through:
+
+- Consistent daily learning
+- Building projects from scratch
+- Understanding concepts deeply
+- Documenting progress publicly
+- Following professional development practices
 
 ---
 
 ## 📚 Mission Progress
 
-### Version 1.0 — Foundation
+### ✅ Mission 001 — Hello, Engineer!
+**Topics Learned**
+- What is a compiler
+- GCC basics
+- Source code vs executable files
+- `main()`
+- `printf()`
+- `return 0`
 
-* ✅ Mission 001 — Hello, Engineer!
-* ✅ Mission 002 — Variables & Memory
-* 🔒 Mission 003 — Decision Making
-
----
-
-## 💻 Technologies
-
-* C
-* Python
-* SQL
-* Git & GitHub
+**Programs Built**
+- Hello Engineering Program
 
 ---
 
-## 🎯 Motto
+### ✅ Mission 002 — Variables & Memory
+**Topics Learned**
+- Variables
+- Memory locations
+- Data types (`int`, `float`, `char`)
+- Declaration
+- Initialization
+- Assignment
+- `scanf()`
+- User input
 
-> **Learn deeply. Build consistently. Improve every day.**
+**Programs Built**
+- Variable Program
+- User Input Program
 
 ---
 
-**Started:** 23 June 2026
+### ✅ Mission 003 — Decision Making
+**Topics Learned**
+- Conditions
+- TRUE and FALSE
+- Comparison Operators
+  - `>`
+  - `<`
+  - `>=`
+  - `<=`
+  - `==`
+  - `!=`
+- `if`
+- `if-else`
+- `else if`
+
+**Programs Built**
+- Pass/Fail Checker
+- Grade Calculator
+
+---
+
+## 💻 Languages
+
+### Current
+- C
+
+### Learning Soon
+- C++
+- Python
+- SQL
+
+---
+
+## 🛠 Tools
+
+- GCC
+- Git
+- GitHub
+- VS Code
+
+---
+
+## 🏆 Engineering Progress
+
+### Programming Track
+- ✅ Mission 001
+- ✅ Mission 002
+- ✅ Mission 003
+- 🔒 Mission 004 — Loops
+
+### Git & GitHub Track
+- ✅ Repository Creation
+- ✅ First Commit
+- ✅ First Push
+- ✅ README Management
+- 🔒 .gitignore
+
+---
+
+## 📖 Engineering Journal
+
+This repository serves as a public record of my growth as an engineer.
+
+Each mission includes:
+- Concepts learned
+- Programs built
+- Challenges faced
+- Solutions discovered
+
+---
+
+## 🎖 Current Rank
+
+🔧 Builder
+
+---
+
+## 📅 Timeline
+
+**Start:** 2026  
+**Target Graduation:** 2030
+
+---
+
+*"Small progress every day compounds into expertise."*
+
+— Aashish Jha
