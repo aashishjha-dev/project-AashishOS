@@ -103,7 +103,8 @@ To become a highly skilled Software Engineer by 2030 through:
 - ✅ Mission 001
 - ✅ Mission 002
 - ✅ Mission 003
-- 🔒 Mission 004 — Loops
+- ✅ Mission 004 — Loops & Repetition
+- 🔒 Mission 005 — Functions
 
 ### Git & GitHub Track
 - ✅ Repository Creation
