@@ -1,0 +1,15 @@
+#include <stdio.h>
+ 
+int add(int a,int b)
+{
+    return a+b;
+}
+
+int main()
+{
+    int result;
+    result=add(25,15);
+    printf("Result=%d\n",result);
+
+    return 0;
+}
