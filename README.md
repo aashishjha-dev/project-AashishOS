@@ -1,145 +1,224 @@
-# 🚀 Project 2030 | AashishOS
+# 🚀 AashishOS
 
-Welcome to my engineering journey.
+<div align="center">
 
-## About
+# Project 2030
 
-I'm Aashish Jha, a B.Tech CSE (AI & ML) student.
+### *Building my engineering career, one commit at a time.*
 
-This repository documents my journey from 2026 to 2030 as I learn Computer Science from first principles and build strong software engineering fundamentals.
-
----
-
-## 🎯 Project Goal
-
-To become a highly skilled Software Engineer by 2030 through:
-
-- Consistent daily learning
-- Building projects from scratch
-- Understanding concepts deeply
-- Documenting progress publicly
-- Following professional development practices
+**Start:** 2026 • **Target:** 2030
 
 ---
 
-## 📚 Mission Progress
+![Status](https://img.shields.io/badge/Status-Learning-blue)
+![Language](https://img.shields.io/badge/Language-C-success)
+![Semester](https://img.shields.io/badge/Semester-1-orange)
+![Mission](https://img.shields.io/badge/Mission-005%20Completed-brightgreen)
 
-### ✅ Mission 001 — Hello, Engineer!
-**Topics Learned**
-- What is a compiler
-- GCC basics
-- Source code vs executable files
-- `main()`
-- `printf()`
-- `return 0`
-
-**Programs Built**
-- Hello Engineering Program
+</div>
 
 ---
 
-### ✅ Mission 002 — Variables & Memory
-**Topics Learned**
-- Variables
-- Memory locations
-- Data types (`int`, `float`, `char`)
-- Declaration
-- Initialization
-- Assignment
-- `scanf()`
-- User input
+# 👋 Welcome
 
-**Programs Built**
-- Variable Program
-- User Input Program
+Hi! I'm **Aashish**.
+
+This repository documents my complete engineering journey from **2026 to 2030**.
+
+Instead of uploading random code, I'm building this repository as a timeline of everything I learn throughout my B.Tech.
+
+Every concept, every program, every project, every mistake, and every improvement will become part of this repository.
+
+By the time I graduate, I want this repository to show how I grew from writing my first C program to building real software.
 
 ---
 
-### ✅ Mission 003 — Decision Making
-**Topics Learned**
-- Conditions
-- TRUE and FALSE
-- Comparison Operators
-  - `>`
-  - `<`
-  - `>=`
-  - `<=`
-  - `==`
-  - `!=`
-- `if`
-- `if-else`
-- `else if`
+# 🎯 Mission
 
-**Programs Built**
-- Pass/Fail Checker
-- Grade Calculator
+My goals are simple:
+
+* Learn Computer Science from first principles.
+* Build strong programming fundamentals.
+* Practice consistently.
+* Learn by building.
+* Create real-world projects.
+* Graduate with a portfolio that reflects my complete journey.
 
 ---
 
-## 💻 Languages
+# 🗺️ Learning Roadmap
 
-### Current
-- C
+## Semester 1
 
-### Learning Soon
-- C++
-- Python
-- SQL
+### C Programming
 
----
-
-## 🛠 Tools
-
-- GCC
-- Git
-- GitHub
-- VS Code
-
----
-
-## 🏆 Engineering Progress
-
-### Programming Track
-- ✅ Mission 001
-- ✅ Mission 002
-- ✅ Mission 003
-- ✅ Mission 004 — Loops & Repetition
-- 🔒 Mission 005 — Functions
-
-### Git & GitHub Track
-- ✅ Repository Creation
-- ✅ First Commit
-- ✅ First Push
-- ✅ README Management
-- 🔒 .gitignore
+* ✅ Hello World
+* ✅ Variables & Memory
+* ✅ User Input
+* ✅ Decision Making
+* ✅ Loops
+* ✅ Functions
+* 🔒 Arrays
+* 🔒 Strings
+* 🔒 Pointers
+* 🔒 Structures
+* 🔒 File Handling
 
 ---
 
-## 📖 Engineering Journal
+# 🚀 Mission Progress
 
-This repository serves as a public record of my growth as an engineer.
-
-Each mission includes:
-- Concepts learned
-- Programs built
-- Challenges faced
-- Solutions discovered
-
----
-
-## 🎖 Current Rank
-
-🔧 Builder
+| Mission | Topic              | Status |
+| ------- | ------------------ | :----: |
+| 001     | Hello, Engineer!   |    ✅   |
+| 002     | Variables & Memory |    ✅   |
+| 003     | Decision Making    |    ✅   |
+| 004     | Loops & Repetition |    ✅   |
+| 005     | Functions          |    ✅   |
+| 006     | Arrays             |   🔒   |
 
 ---
 
-## 📅 Timeline
+# 📂 Repository Structure
 
-**Start:** 2026  
-**Target Graduation:** 2030
+```text
+project-AashishOS
+│
+├── Semester-1
+│   │
+│   └── C Programming
+│       │
+│       ├── hello.c
+│       ├── variable.c
+│       ├── input.c
+│       ├── decision.c
+│       ├── grade.c
+│       ├── loop.c
+│       ├── counter.c
+│       ├── table.c
+│       ├── sum.c
+│       ├── function.c
+│       ├── multi.c
+│       ├── add.c
+│       ├── return.c
+│       └── calculator.c
+│
+└── README.md
+```
 
 ---
 
-*"Small progress every day compounds into expertise."*
+# 🛠 Tech Stack
 
-— Aashish Jha
+Currently learning:
+
+* C Programming
+* GCC Compiler
+* Git
+* GitHub
+* Visual Studio Code
+
+Future additions:
+
+* C++
+* Data Structures & Algorithms
+* HTML
+* CSS
+* JavaScript
+* Python
+* SQL
+* Full Stack Development
+
+---
+
+# 📈 Learning Philosophy
+
+I believe that real learning comes from consistency, not speed.
+
+Every program in this repository is written as part of my learning process. As I improve, I'll revisit earlier code, make it cleaner, and build larger projects using the concepts I've learned.
+
+This repository is a record of progress—not perfection.
+
+---
+
+# 🎯 Long-Term Goals
+
+Over the next four years, I plan to learn:
+
+* Data Structures
+* Algorithms
+* Object-Oriented Programming
+* Databases
+* Operating Systems
+* Computer Networks
+* Web Development
+* Software Engineering
+* Artificial Intelligence
+* Real-World Software Projects
+
+---
+
+# 📅 Journey Timeline
+
+```text
+2026 ───────► Learn Programming Fundamentals
+
+2027 ───────► Build Strong Programming Skills
+
+2028 ───────► Develop Real Projects
+
+2029 ───────► Advanced Development & Internship Projects
+
+2030 ───────► Graduate with a Complete Engineering Portfolio
+```
+
+---
+
+# 📊 Current Status
+
+```text
+Current Rank      : 🛠 Developer
+
+Current Semester  : Semester 1
+
+Current Language  : C
+
+Current Mission   : Mission 006 — Arrays
+
+Repository Status : Active
+```
+
+---
+
+# 🌱 A Note to Future Me
+
+If you're reading this years later, I hope you've kept learning, stayed curious, and built things you're proud of.
+
+Remember where it started:
+
+```c
+#include <stdio.h>
+
+int main()
+{
+    printf("Hello, World!");
+
+    return 0;
+}
+```
+
+Every software engineer starts somewhere.
+
+This was my beginning.
+
+---
+
+<div align="center">
+
+## ⭐ Thanks for visiting!
+
+This repository will continue to evolve throughout my engineering journey.
+
+**Project 2030 is just getting started. 🚀**
+
+</div>
