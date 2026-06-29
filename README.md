@@ -13,7 +13,7 @@
 ![Status](https://img.shields.io/badge/Status-Learning-blue)
 ![Language](https://img.shields.io/badge/Language-C-success)
 ![Semester](https://img.shields.io/badge/Semester-1-orange)
-![Mission](https://img.shields.io/badge/Mission-005%20Completed-brightgreen)
+![Mission](https://img.shields.io/badge/Mission-006%20Completed-brightgreen)
 
 </div>
 
@@ -27,7 +27,7 @@ This repository documents my complete engineering journey from **2026 to 2030**.
 
 Instead of uploading random code, I'm building this repository as a timeline of everything I learn throughout my B.Tech.
 
-Every concept, every program, every project, every mistake, and every improvement will become part of this repository.
+Every concept, every program, every project, every mistake, and every improvement becomes part of this repository.
 
 By the time I graduate, I want this repository to show how I grew from writing my first C program to building real software.
 
@@ -58,7 +58,7 @@ My goals are simple:
 * ✅ Decision Making
 * ✅ Loops
 * ✅ Functions
-* 🔒 Arrays
+* ✅ Arrays
 * 🔒 Strings
 * 🔒 Pointers
 * 🔒 Structures
@@ -68,14 +68,15 @@ My goals are simple:
 
 # 🚀 Mission Progress
 
-| Mission | Topic              | Status |
-| ------- | ------------------ | :----: |
-| 001     | Hello, Engineer!   |    ✅   |
-| 002     | Variables & Memory |    ✅   |
-| 003     | Decision Making    |    ✅   |
-| 004     | Loops & Repetition |    ✅   |
-| 005     | Functions          |    ✅   |
-| 006     | Arrays             |   🔒   |
+| Mission | Topic                    |  Status |
+| ------- | ------------------------ | :-----: |
+| 001     | Hello, Engineer!         |    ✅    |
+| 002     | Variables & Memory       |    ✅    |
+| 003     | Decision Making          |    ✅    |
+| 004     | Loops & Repetition       |    ✅    |
+| 005     | Functions                |    ✅    |
+| 006     | Arrays & Data Processing |    ✅    |
+| 007     | Strings                  | 🚀 Next |
 
 ---
 
@@ -101,7 +102,19 @@ project-AashishOS
 │       ├── multi.c
 │       ├── add.c
 │       ├── return.c
-│       └── calculator.c
+│       ├── calculator.c
+│       │
+│       ├── array1.c
+│       ├── array2.c
+│       ├── array_input.c
+│       ├── array_loop.c
+│       ├── array_sum.c
+│       ├── largest.c
+│       ├── smallest.c
+│       ├── largest_smallest.c
+│       ├── search.c
+│       ├── average.c
+│       └── student_analyzer.c
 │
 └── README.md
 ```
@@ -128,6 +141,24 @@ Future additions:
 * Python
 * SQL
 * Full Stack Development
+
+---
+
+# 🏆 Milestones
+
+### Mission 006 Highlights
+
+✔ Built **11 C programs**
+
+✔ Learned Arrays
+
+✔ Implemented Linear Search
+
+✔ Calculated Sum & Average
+
+✔ Found Largest & Smallest Elements
+
+✔ Built **Student Marks Analyzer** (Mini Project)
 
 ---
 
@@ -183,7 +214,7 @@ Current Semester  : Semester 1
 
 Current Language  : C
 
-Current Mission   : Mission 006 — Arrays
+Current Mission   : Mission 007 — Strings
 
 Repository Status : Active
 ```
@@ -217,8 +248,10 @@ This was my beginning.
 
 ## ⭐ Thanks for visiting!
 
-This repository will continue to evolve throughout my engineering journey.
+**Current Progress:** 6 Missions Completed ✅
 
-**Project 2030 is just getting started. 🚀**
+**Next Stop:** Mission 007 – Strings 🚀
+
+Project 2030 is just getting started.
 
 </div>
