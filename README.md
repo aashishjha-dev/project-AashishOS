@@ -13,7 +13,7 @@
 ![Status](https://img.shields.io/badge/Status-Learning-blue)
 ![Language](https://img.shields.io/badge/Language-C-success)
 ![Semester](https://img.shields.io/badge/Semester-1-orange)
-![Mission](https://img.shields.io/badge/Mission-007%20Completed-brightgreen)
+![Mission](https://img.shields.io/badge/Mission-008%20Completed-brightgreen)
 
 </div>
 
@@ -23,27 +23,26 @@
 
 Hi! I'm **Aashish**.
 
-Welcome to **Project 2030**, my public engineering journey.
+Welcome to **Project 2030** — my four-year engineering journey.
 
-This repository is where I document everything I learn throughout my B.Tech—from my very first C program to larger software projects in the future.
+This repository is not just a collection of code. It is a timeline of my learning, documenting everything I study throughout my B.Tech, from my very first C program to larger software projects.
 
-My goal isn't to create a repository filled only with polished projects. Instead, I want to document my complete learning process, including small programs, experiments, mistakes, improvements, and major milestones.
+Every concept, every assignment, every project, every mistake, and every improvement is part of this repository.
 
-By the time I graduate, I want this repository to tell the complete story of my growth as a software engineer.
+My goal is simple: graduate in 2030 with a portfolio that genuinely reflects my growth as a software engineer.
 
 ---
 
 # 🎯 Mission
 
-My goals are simple:
+My goals are to:
 
-* Build strong programming fundamentals.
-* Understand how computers actually work.
-* Learn Computer Science from first principles.
-* Practice consistently.
-* Learn by building projects.
-* Improve every semester.
-* Graduate with a portfolio that reflects my complete journey.
+- Learn Computer Science from first principles.
+- Build strong programming fundamentals.
+- Practice consistently.
+- Learn by building real programs.
+- Create projects that demonstrate my progress.
+- Maintain a complete record of my engineering journey.
 
 ---
 
@@ -53,32 +52,33 @@ My goals are simple:
 
 ### C Programming
 
-* ✅ Hello World
-* ✅ Variables & Memory
-* ✅ User Input
-* ✅ Decision Making
-* ✅ Loops
-* ✅ Functions
-* ✅ Arrays
-* ✅ Strings
-* 🔒 Pointers
-* 🔒 Structures
-* 🔒 File Handling
+- ✅ Hello World
+- ✅ Variables & Memory
+- ✅ User Input
+- ✅ Decision Making
+- ✅ Loops
+- ✅ Functions
+- ✅ Arrays
+- ✅ Strings
+- ✅ Pointers
+- 🔒 Structures
+- 🔒 File Handling
 
 ---
 
 # 🚀 Mission Progress
 
-| Mission | Topic              | Status |
-| ------- | :----------------- | :----: |
-| 001     | Hello, Engineer!   |    ✅   |
-| 002     | Variables & Memory |    ✅   |
-| 003     | Decision Making    |    ✅   |
-| 004     | Loops & Repetition |    ✅   |
-| 005     | Functions          |    ✅   |
-| 006     | Arrays             |    ✅   |
-| 007     | Strings            |    ✅   |
-| 008     | Pointers           |   🔒   |
+| Mission | Topic | Status |
+| ------- | -------------------- | :----: |
+| 001 | Hello, Engineer! | ✅ |
+| 002 | Variables & Memory | ✅ |
+| 003 | Decision Making | ✅ |
+| 004 | Loops & Repetition | ✅ |
+| 005 | Functions | ✅ |
+| 006 | Arrays | ✅ |
+| 007 | Strings | ✅ |
+| 008 | Pointers | ✅ |
+| 009 | Structures | 🔒 |
 
 ---
 
@@ -91,89 +91,50 @@ project-AashishOS
 │   │
 │   └── C Programming
 │       │
-│       ├── hello.c
-│       ├── variable.c
-│       ├── input.c
-│       ├── decision.c
-│       ├── grade.c
-│       ├── loop.c
-│       ├── counter.c
-│       ├── table.c
-│       ├── sum.c
-│       ├── function.c
-│       ├── multi.c
-│       ├── add.c
-│       ├── return.c
-│       ├── calculator.c
-│       ├── array1.c
-│       ├── array2.c
-│       ├── array_input.c
-│       ├── array_loop.c
-│       ├── array_sum.c
-│       ├── largest.c
-│       ├── smallest.c
-│       ├── largest_smallest.c
-│       ├── search.c
-│       ├── student_analyzer.c
-│       ├── character.c
-│       ├── character_input.c
-│       ├── ascii.c
-│       ├── string1.c
-│       ├── string_input.c
-│       ├── string_loop.c
-│       ├── string_length.c
-│       └── string_analyzer.c
+│       ├── Mission-001
+│       ├── Mission-002
+│       ├── Mission-003
+│       ├── Mission-004
+│       ├── Mission-005
+│       ├── Mission-006
+│       ├── Mission-007
+│       ├── Mission-008
+│       └── ...
 │
+├── .gitignore
 └── README.md
 ```
 
 ---
 
-# 🛠 Current Tech Stack
+# 🛠 Tech Stack
 
-### Languages
+### Currently Learning
 
-* C
+- C Programming
+- GCC Compiler
+- Git
+- GitHub
+- Visual Studio Code
 
-### Tools
+### Future Learning
 
-* GCC Compiler
-* Git
-* GitHub
-* Visual Studio Code
-
-### Learning Next
-
-* Pointers
-* Structures
-* File Handling
-* C++
-* Data Structures & Algorithms
-* HTML
-* CSS
-* JavaScript
-* Python
-* SQL
-* Full Stack Development
+- C++
+- Data Structures & Algorithms
+- HTML
+- CSS
+- JavaScript
+- Python
+- SQL
+- Full Stack Development
 
 ---
 
-# 📊 Current Statistics
+# 📈 Learning Philosophy
 
-| Category           |   Progress   |
-| ------------------ | :----------: |
-| Missions Completed |     **7**    |
-| Current Language   |     **C**    |
-| Current Semester   |     **1**    |
-| Current Focus      | **Pointers** |
+I believe that real learning comes from consistency rather than speed.
 
----
-
-# 🌱 Learning Philosophy
-
-I believe real learning comes from consistency—not speed.
-
-Every program in this repository is written as part of my learning journey. As my knowledge grows, I'll continue revisiting older code, improving it, and building more advanced projects.
+Every program in this repository is written as part of my learning process. As my skills improve, I'll revisit earlier programs, improve their quality, and build larger projects using the concepts I've learned.
 
 This repository is a record of progress—not perfection.
 
@@ -181,39 +142,38 @@ This repository is a record of progress—not perfection.
 
 # 🎯 Long-Term Goals
 
-By 2030, I aim to have a strong understanding of:
+By 2030, I aim to gain practical knowledge of:
 
-* Data Structures
-* Algorithms
-* Object-Oriented Programming
-* Databases
-* Operating Systems
-* Computer Networks
-* Software Engineering
-* Web Development
-* Artificial Intelligence
-* Machine Learning
-* Real-World Software Development
+- Data Structures
+- Algorithms
+- Object-Oriented Programming
+- Databases
+- Operating Systems
+- Computer Networks
+- Web Development
+- Software Engineering
+- Artificial Intelligence
+- Real-World Software Development
 
 ---
 
-# 📅 Project 2030 Timeline
+# 📅 Journey Timeline
 
 ```text
-2026 ───────── Learn Programming Fundamentals
+2026 ───────► Learn Programming Fundamentals
 
-2027 ───────── Build Strong Programming Skills
+2027 ───────► Build Strong Programming Skills
 
-2028 ───────── Develop Real Projects
+2028 ───────► Develop Real Projects
 
-2029 ───────── Advanced Development & Internship Projects
+2029 ───────► Advanced Development & Internship Projects
 
-2030 ───────── Graduate with a Complete Engineering Portfolio
+2030 ───────► Graduate with a Complete Engineering Portfolio
 ```
 
 ---
 
-# 📈 Current Status
+# 📊 Current Status
 
 ```text
 Current Rank      : 🛠 Developer
@@ -222,30 +182,18 @@ Current Semester  : Semester 1
 
 Current Language  : C
 
-Current Mission   : Mission 008 — Pointers
+Current Mission   : Mission 009 — Structures
 
 Repository Status : Active
-
-Progress          : 7 Missions Completed
 ```
-
----
-
-# 🌟 Milestones
-
-* ✅ Learned C Programming Fundamentals
-* ✅ Built multiple console applications
-* ✅ Completed Arrays and String mini projects
-* ✅ Started building Project 2030 as a long-term engineering portfolio
-* 🚧 Continuing towards advanced C programming and Data Structures
 
 ---
 
 # 🌱 A Note to Future Me
 
-If you're reading this years later, I hope you've stayed curious, kept learning, and continued building things that make you proud.
+If you're reading this years later, I hope you've kept learning, stayed curious, and continued building things you're proud of.
 
-Never forget where everything started.
+Remember where everything started:
 
 ```c
 #include <stdio.h>
@@ -258,20 +206,18 @@ int main()
 }
 ```
 
-Every software engineer writes a first program.
+Every software engineer starts somewhere.
 
-This was mine.
+This was my beginning.
 
 ---
 
 <div align="center">
 
-# ⭐ Thanks for visiting!
+## ⭐ Thanks for visiting!
 
-**Project 2030** is a living repository that will continue to grow throughout my engineering journey.
+This repository will continue to evolve throughout my engineering journey.
 
-**Mission 007 Complete ✅**
-
-**Next Stop → Mission 008: Pointers 🚀**
+**Project 2030 is just getting started. 🚀**
 
 </div>
